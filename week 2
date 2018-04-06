@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+<title>Lexi's Website</title>
+    </head>
+    <body>
+<h1 style="background-color:rgb(255, 0, 81);">Alexis</h1>
+<h2>About Me</h2>
+<p>My name is Alexis and I am from Alaska.</p> 
+<p>I'm obsessed with my dog. And food.</p>
+<h2>My favorite websites</h2>
+<ol><li><a href="https://www.sephora.com/">Sephora</a></li>
+<li><a href="http://www.netflix.com">Netflix</a></li>
+<li><a href="http://www.youtube.com">Youtube</a></li>
+<h2>My favorite pictures</h2>
+&#9829;&#9829;&#9829;<a href="https://www.cicis.com/menu/pizza/alfredo"><img src="https://www.cicis.com/media/1137/pizza_trad_alfredo.png" title="My love" style="width:100px;height:100px;margin:5px"></a>
+<a href="https://www.tablespoon.com/recipes/peach-sriracha-chicken-wings/3269773b-d5b1-4c1b-b344-32f0184582e2"><img src="https://images-gmi-pmc.edge-generalmills.com/f33a4e84-6cc8-4c6f-878c-c40651cef816.jpg" title="Also my love" style="width:100px;height:100px;margin:5px"></a>   
+    &#9829;&#9829;&#9829;</body>
+</html>
